@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Ashnoor Singh, a technology enthusiast currently working towards my Bachelor's degree in Engineering. My passion lies in the field of data science.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [ashnoorchhabra2@gmail.com](mailto:ashnoorchhabra2@gmail.com)
+* ✉️  You can contact me at [ashnoorchhabra2@gmail.com](mailto:ashnoorchhabra1313@gmail.com)
 * 🧠  I'm learning Data Science
 
 ### Skills
